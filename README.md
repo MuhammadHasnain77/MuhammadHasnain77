@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation,software engineering and AI
 - 🌱 I’m currently learning Python and full time studying electrical engineering
 - 💞️ I’m looking to collaborate on python related project and AI etc.
-- 📫 How to reach me on linkedin below is the link
+- 📫 You can reach me on linkedin below is the link
 - https://www.linkedin.com/in/muhammad-hasnain77?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
