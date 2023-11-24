@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadHasnain77
+- 👋 Hi, I’m @MuhammadHasnain
 - 👀 I’m interested in automation,software engineering and AI
 - 🌱 I’m currently learning Python and full time studying electrical engineering
 - 💞️ I’m looking to collaborate on python related project and AI etc.
