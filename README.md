@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Hasnain] 👋
+# Hi there, I'm Muhammad Hasnain 👋
 
 ### ⚡ Electrical Engineer | AI & Renewable Energy Systems Enthusiast
 
@@ -26,7 +26,7 @@ Passionate about the intersection of **power electronics**, **renewable integrat
 ---
 
 ### 📂 Featured Projects
-1. **[Chart-Voice](https://github.com/inamjadoon/Chart-Voice)** – Built a Chart-Voice which can easily convert the bar, line or pie charts to simply easy summary for those who don't understand charts.
+1. **[Chart-Voice](https://github.com/inamjadoon/Chart-Voice)** – Built a Chart-Voice which can easily convert the bar, line or pie charts to simply easy voice and text summary for those who are blind on eyes.
 
 ---
 
